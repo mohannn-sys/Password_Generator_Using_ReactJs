@@ -3,9 +3,9 @@ This is a simple password generator application built with React. Users can cust
 
 ## Screenshot
 
-<img src="path/to/your/image.png" alt="Password Generator Screenshot" width="600"/>
+<img src="./public/Screenshot at 2024-09-06 10-24-14.png" alt="Password Generator Screenshot" width="600"/>
 
-*Figure 1: The Password Generator application showing password options and generated password.*
+*Fig 1: The Password Generator application showing password options and generated password.*
 
 ## Features
 
@@ -18,7 +18,7 @@ This is a simple password generator application built with React. Users can cust
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/password-generator-react.git
+git clone https://github.com/mohannn-sys/Password_Generator_Using_ReactJs.git
 cd password-generator-react
 npm install
 ```
